@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Alamofire.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>BetterBaseClasses.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>MBProgressHUD.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-IceCreamShop.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>RWPickFlavor.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0061CDEBB1D9C51EC3DE16FF1C2AF6F7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>26CBAB9C9AEA2199A275DBF76310EFFD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5602A1C9C0792FF7DAD892596310643E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B17BC8519A9D7916A742194C849037A8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C5DA8311742AA3F9AB724BABB82B8AA4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

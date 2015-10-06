@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (1.3.1)
+  - BetterBaseClasses (1.6.1):
+    - BetterBaseClasses/Constants (= 1.6.1)
+    - BetterBaseClasses/Controllers (= 1.6.1)
+    - BetterBaseClasses/Views (= 1.6.1)
+  - BetterBaseClasses/Constants (1.6.1)
+  - BetterBaseClasses/Controllers (1.6.1):
+    - BetterBaseClasses/Constants
+  - BetterBaseClasses/Views (1.6.1)
+  - MBProgressHUD (0.9.1)
+  - RWPickFlavor (0.2.0):
+    - Alamofire (~> 1.1)
+    - BetterBaseClasses (~> 1.0)
+    - MBProgressHUD (~> 0.9.0)
+
+DEPENDENCIES:
+  - RWPickFlavor (from `~/Projects/RWPickFlavor/RWPickFlavor`)
+
+EXTERNAL SOURCES:
+  RWPickFlavor:
+    :path: ~/Projects/RWPickFlavor/RWPickFlavor
+
+SPEC CHECKSUMS:
+  Alamofire: e4ab637e3195b645c814b87a652373439e59f2a4
+  BetterBaseClasses: 62db1017b6d180885adf4e259a58c7d129f51960
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  RWPickFlavor: 3b1b7c593a22776485d7c9621e289d876f5f94da
+
+COCOAPODS: 0.38.2

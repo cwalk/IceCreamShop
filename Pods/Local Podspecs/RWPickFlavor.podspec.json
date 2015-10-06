@@ -1,0 +1,35 @@
+{
+  "name": "RWPickFlavor",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "summary": "RWPickFlavor lets a user select an ice cream flavor.",
+  "requires_arc": true,
+  "version": "0.2.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Walker, Clayton J.": "Clayton.J.Walker@disney.com"
+  },
+  "homepage": "https://github.disney.com/WALKC120/RWPickFlavor",
+  "source": {
+    "git": "https://github.disney.com/WALKC120/RWPickFlavor.git",
+    "tag": "0.2.0"
+  },
+  "frameworks": "UIKit",
+  "dependencies": {
+    "Alamofire": [
+      "~> 1.1"
+    ],
+    "MBProgressHUD": [
+      "~> 0.9.0"
+    ],
+    "BetterBaseClasses": [
+      "~> 1.0"
+    ]
+  },
+  "source_files": "RWPickFlavor/**/*.{swift}",
+  "resources": "RWPickFlavor/**/*.{png,jpeg,jpg,storyboard,xib}"
+}

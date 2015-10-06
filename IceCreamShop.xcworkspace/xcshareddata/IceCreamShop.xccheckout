@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>02A68F67-0DDE-4901-9844-FACE3F8AE5D0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>IceCreamShop</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7FAD71EF730E9E7B841F4625BB4EAB7D6AF04E54</key>
+		<string>github.disney.com:WALKC120/IceCreamShop.git</string>
+		<key>94E9C089AFC41CCC88AF3CBB0A7056DCE58B2AA2</key>
+		<string>github.disney.com:WALKC120/RWPickFlavor.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IceCreamShop/IceCreamShop.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7FAD71EF730E9E7B841F4625BB4EAB7D6AF04E54</key>
+		<string>../..</string>
+		<key>94E9C089AFC41CCC88AF3CBB0A7056DCE58B2AA2</key>
+		<string>../../../RWPickFlavor</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.disney.com:WALKC120/IceCreamShop.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7FAD71EF730E9E7B841F4625BB4EAB7D6AF04E54</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7FAD71EF730E9E7B841F4625BB4EAB7D6AF04E54</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IceCreamShop</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>94E9C089AFC41CCC88AF3CBB0A7056DCE58B2AA2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RWPickFlavor</string>
+		</dict>
+	</array>
+</dict>
+</plist>
